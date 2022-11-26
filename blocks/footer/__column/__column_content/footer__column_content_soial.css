@@ -1,0 +1,7 @@
+.footer__column_content_soial {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+}
